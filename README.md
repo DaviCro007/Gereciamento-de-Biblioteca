@@ -1,4 +1,4 @@
-# Sistema de Biblioteca em Java
+# Gerenciamento de Biblioteca
 
 ## 📚 Sobre o projeto
 
